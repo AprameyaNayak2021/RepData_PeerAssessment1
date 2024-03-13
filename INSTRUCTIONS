@@ -1,0 +1,26 @@
+THIS IS AN INSTRUCTION DOCUMENT - IT DOESN'T CONTRIBUT ETO TEH FUNCTIONALITY OF THE CODE:
+
+PREREQUSITES => to have downloaded the packages needed to read and edit .rmd files
+             => to have downlaoded the lubridate package
+
+FILE STRUCTURE:
+
+- README.md
+- RepData_PeerAssessment1.Rproj
+- .gitignore
+- activity.csv
+- activity.zip  <-- (has the csv file)
+- doc
+    - instructions.pdf
+- INSTRUCTIONS.pdf
+- instructions_fig 
+    - sample_panelplot.png
+- PA1_template.Rmd
+- plot1.1.png
+- plot1.png
+- plot4.png
+- plot7.png
+- plot8.1.png
+- plot8.2.png
+- plot8.png
+                
